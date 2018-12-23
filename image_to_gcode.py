@@ -3,7 +3,7 @@
 from __future__ import absolute_import, division, print_function, unicode_literals
 import os
 import sys
-import cv
+import cv2 as cv             #opencv2 version
 import argparse
 import termcolor
 import ast
